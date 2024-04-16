@@ -1,4 +1,4 @@
-name: Deployment to Github/Gitee pages
+name: Deployment to Github pages
 on:
   push:
     branches:
